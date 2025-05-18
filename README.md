@@ -1,2 +1,2 @@
 # IOT_Tour
-This is a IOT to Tourismt 
+This is an Input-Output Tables analysis tool for Tourism sector. 
